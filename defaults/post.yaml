@@ -1,0 +1,25 @@
+data-dir: /Users/heades/website/blog/FJL
+
+from: markdown+emoji
+
+to: html
+
+template: "/Users/heades/website/blog/FJL/layouts/post"
+include-before-body: []
+
+output-file: 
+
+input-files: []
+
+standalone: true
+
+self-contained: false
+
+highlight-style: espresso
+
+email-obfuscation: javascript
+metadata:
+        email: "harley.eades@gmail.com"
+
+css:
+- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
