@@ -7,6 +7,6 @@ Feed: [RSS](feed.xml)
 
 ::: list-group
 ::: list-group-item
-### [The Cartfitbox Blog](/draft/TheBlog.html)
+### [What's the Cartfitbox blog?](/draft/TheBlog.html)
 :::
 :::
