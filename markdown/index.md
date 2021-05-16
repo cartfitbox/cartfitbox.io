@@ -1,6 +1,6 @@
 ---
-pagetitle: From the Jammer Line
-title: From the Jammer Line
+pagetitle: Cartfitbox
+title: Cartfitbox
 ---
 
 Feed: [RSS](feed.xml)
